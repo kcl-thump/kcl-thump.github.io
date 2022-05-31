@@ -190,4 +190,4 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
-.responsive-header { width: 100%; height: auto;}
+.responsive-header { width: 100%; max-width: 664px; margin: auto; height: auto;}
