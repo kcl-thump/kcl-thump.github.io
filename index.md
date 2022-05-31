@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+The Trust in Human-Machine Partnerships (ThUMP) project is funded by EPSRC  (EP/R033722/1) under the Trust, Identity, Privacy and Security in the Digital Economy 2.0 (TIPS2) call. 
 
-You can use the [editor on GitHub](https://github.com/kcl-thump/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of this project is to advance the state-of-the-art in trustworthy human-AI decision-support systems. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Started in February 2019, over three years the THuMP project will address the technical challenges involved in creating explainable AI (XAI) systems, with a focus on problems involving complex planning and resource allocation, so that people using the system can understand the rationale behind and trust suggestions made by the AI.
 
-### Markdown
+The research questions addressed by THuMP include:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. What are the technical challenges involved in creating Explainable AI Planning systems?
 
-```markdown
-Syntax highlighted code block
+2. What are the technical, legal and social challenges involved in instantiating with explanations a planning system for solving resource allocation problems in critical domains? 
 
-# Header 1
-## Header 2
-### Header 3
+3. What are the legal and social implications of enhancing machines with transparency and the ability to explain? 
 
-- Bulleted
-- List
+This project is done in collaboration with three project partners: Save the Children and Schlumberger that provided use cases for the project, and the law firm Hogan Lovells that will cooperate in investigating the legal implications of enhancing machines with transparency and explanations, and how this affects liability and accountability of machines and shared responsibilities.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kcl-thump/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
